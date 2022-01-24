@@ -30,5 +30,5 @@ int main()
    if(a==0){
        cout << "we dont have the element " << endl;
    }
-
+    return 0;
 }
